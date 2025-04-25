@@ -1,6 +1,3 @@
 [submodule "deepbench-frontend"]
 	path = deepbench-frontend
 	url = git@github.com:ml-lab-htw/deepbench-frontend.git
-[submodule "deepbench-backend"]
-	path = deepbench-backend
-	url = git@github.com:ml-lab-htw/deepbench-backend.git
