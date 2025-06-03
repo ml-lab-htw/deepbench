@@ -82,4 +82,5 @@ Developed under the TAHAI (TrustAdHocAI) project:
 - Rudolf Hoffmann (`Rudolf.Hoffmann@student.htw-berlin.de`)  
 
 **Funding**:  
-Supported by IFAF Berlin (Institute for Applied Research Berlin).
+This research was funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) via the Project ApplFM (528483508) and
+the Institut für angewandte Forschung Berlin (IFAF, Berlin Institute for Applied Research) via Project TrustAdHocAI (TAHAI).
