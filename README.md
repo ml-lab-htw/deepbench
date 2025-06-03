@@ -1,4 +1,4 @@
-# DeepBench: Domain-Specific Robustness Evaluation Framework of Vision-Language Models 
+# DeepBench: Domain-Specific Robustness Evaluation Framework for Vision and Vision-Language Models 
 
 ![DeepBench Flowchart](resources/graphical_abstract.svg)  
 
